@@ -83,7 +83,7 @@ Additional information is provided in Section 8 of the RFQ, but in short:
 
 ## Contents
 
-1. [Statement of Work (SOW)](solicitation_documents/SOW.pdf)
+1. [Request for Quote (RFQ)](solicitation_documents/RFQ.pdf)
 
 ## Contributing
 
