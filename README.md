@@ -1,8 +1,8 @@
 # Data.gov Technical Support Services
 
-Please submit any questions as [an Issue](https://github.com/18F/tts-buy-datagov-pmo/issues) in this repository by *November XX, 2017 at 1:00pm EST*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+Please submit any questions as [an Issue](https://github.com/18F/tts-buy-datagov-pmo/issues) in this repository by *November 17, 2017*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
-**Proposals are due by November XX, 2017 at 1:00pm EST.**
+**Proposals are due by November 27, 2017 at 4:00pm EST.**
 
 ## Background
 
