@@ -1,4 +1,4 @@
-# Data.gov PMO
+# Data.gov Technical Support Services
 
 Please submit any questions as [an Issue](https://github.com/18F/tts-buy-datagov-pmo/issues) in this repository by *November XX, 2017 at 1:00pm EST*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
